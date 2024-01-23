@@ -24,5 +24,4 @@
 
 
 ## <a id="title4">Результат работы кода</a>
-Результат работы кода 
 <img width="332" alt="image" src="https://github.com/adelyaahmadullina/DataAnalysis/assets/120652605/7425e89e-9abb-4d76-8556-76a4b4bcbb1b">
