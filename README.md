@@ -13,4 +13,5 @@
 
 ## <a id="title2">Запуск кода</a>
 Загрузите  [TrainingDataConveyor.csv] (https://drive.google.com/file/d/1HqUO4eOKcOItfD1ZkWzChXX-CIS5HmB-/view?usp=drive_link) в Google Colab  
-![image](https://github.com/kurrosan/DataAnalysis/assets/120035199/bfe02eae-9b3b-4a03-ae5b-15d19a817bdf)
+<img width="211" alt="image" src="https://github.com/adelyaahmadullina/DataAnalysis/assets/120652605/47d8af81-5bb6-419a-9f5f-4458c7352bf0">
+
