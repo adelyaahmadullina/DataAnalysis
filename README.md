@@ -1,4 +1,6 @@
 # DataAnalysis
+Разработка системы обнаружения аномалий в промышленных процессах на основе данных датчиков.
+
 [Данные, нужные для запуска кода](#title1)
 
 [Запуск кода](#title2)
@@ -16,3 +18,5 @@
 <img width="211" alt="image" src="https://github.com/adelyaahmadullina/DataAnalysis/assets/120652605/47d8af81-5bb6-419a-9f5f-4458c7352bf0">
 
 После этого запустите код После выполнения всего кода, у нас появится результат. <img width="332" alt="image" src="https://github.com/adelyaahmadullina/DataAnalysis/assets/120652605/7425e89e-9abb-4d76-8556-76a4b4bcbb1b">
+
+## <a id="title3">Как работает код</a>
